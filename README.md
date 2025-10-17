@@ -2,7 +2,7 @@
 # Name : R M Badri Narayanan
 # Roll Number : ME22B225
 
-# Note: The number of clusters, metrics etc may slightly change with every run due to the inherent randomness present.
+# Note: The metrics etc may slightly change with every run due to the inherent randomness present.
 
 
 ## Assignment 6 : Imputation via Regression for Missing Data
